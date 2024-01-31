@@ -1,3 +1,3 @@
 # Enlace a la web
 
-![EasyBlog](https://github.com/DW1A/porfolioBootstrap)
+![EasyBlog](https://dw1a.github.io/porfolioBootstrap/)
