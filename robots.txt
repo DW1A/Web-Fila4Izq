@@ -1,4 +1,12 @@
 # robots.txt
 
 User-agent: *
-Disallow: /*
+Disallow: /personalassets/*
+Disallow: /assets/*
+Disallow: /css/*
+Disallow: /js/*
+Disallow: /README.md
+Disallow: /about.html
+Disallow: /contact.html
+Disallow: /index.html
+Disallow: /post.html
